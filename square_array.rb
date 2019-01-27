@@ -6,5 +6,5 @@ def square_array(array)
     numbers.push(i**2)
   }
   end
-#  return numbers
+  return numbers
 end
